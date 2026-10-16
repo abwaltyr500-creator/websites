@@ -1,4 +1,4 @@
-# User manual
+Asphalt 8 User manual
 
 [[toc]]
 
